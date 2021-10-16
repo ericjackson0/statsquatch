@@ -1,0 +1,19 @@
+{
+  "name": "statsquatch",
+  "version": "1.0.0",
+  "description": "Stats for the Sasquatch Hockey League.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ericjackson0/statsquatch.git"
+  },
+  "author": "Eric Jackson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ericjackson0/statsquatch/issues"
+  },
+  "homepage": "https://github.com/ericjackson0/statsquatch#readme"
+}
